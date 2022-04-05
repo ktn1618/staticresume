@@ -1,5 +1,5 @@
 # Cloud Resume Challenge
-
+Visit website at: www.karentunguyen.com
 The challenge set some rules for the website:
 
 1. Resume must be written in HTML and styled with CSS
