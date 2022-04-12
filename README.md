@@ -7,3 +7,5 @@ The challenge set some rules for the website:
 3. Should be accessible via HTTPS
 4. Have a custom domain name
 
+
+Update: still trouble shooting my AWS Cloudfront distribution and Route53
